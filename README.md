@@ -1,2 +1,1 @@
-# haha-funny-repo
-it's literally for a joke
+literally the only purpose of this repo is for a webhook in a discord server
